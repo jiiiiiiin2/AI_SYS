@@ -9,6 +9,7 @@
 - [Project_Descriptions/WBS_AI_SYS.md](Project_Descriptions/WBS_AI_SYS.md)
 - [Project_Descriptions/Wireframe_AI_SYS.md](Project_Descriptions/Wireframe_AI_SYS.md)
 - [Project_Descriptions/Screen_Flow_AI_SYS.md](Project_Descriptions/Screen_Flow_AI_SYS.md)
+- [Project_Descriptions/Technology_Stack_AI_SYS.md](Project_Descriptions/Technology_Stack_AI_SYS.md)
 
 ## 1. 팀 소개
 - 팀 이름: 까짓것 돌려보조

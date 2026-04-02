@@ -13,6 +13,7 @@
 - WBS: [WBS_AI_SYS.md](./WBS_AI_SYS.md)
 - 와이어프레임: [Wireframe_AI_SYS.md](./Wireframe_AI_SYS.md)
 - 화면 흐름도: [Screen_Flow_AI_SYS.md](./Screen_Flow_AI_SYS.md)
+- 사용 기술: [Technology_Stack_AI_SYS.md](./Technology_Stack_AI_SYS.md)
 
 ---
 
@@ -88,6 +89,7 @@ AI_SYS는 경찰 공무원 시험 준비 과정에서 필요한 판례를 빠르
 - WBS 문서: 문서화, 데이터, 검색, 학습 UX, 테스트를 포함한 작업 분해 구조 정의
 - 와이어프레임 문서: 핵심 화면 흐름과 저충실도 화면 구성을 정의
 - 화면 흐름도 문서: 메인 경로와 예외 분기를 포함한 실제 화면 전환 구조를 정의
+- 사용 기술 문서: AI 기술, 검색 구조, 데이터 처리, 서비스 구성, 운영 관점을 정의
 
 ---
 
