@@ -31,3 +31,9 @@
 - review_status
 - owner
 - note
+
+## 정책 확인 및 템플릿 문서
+- 정책 체크 가이드: code/data/policy/SCourt_Policy_Check_Guide.md
+- 문의 메일 템플릿: code/data/templates/scourt_permission_request_email.md
+- 정책 로그 템플릿: code/data/manifests/templates/policy_check_log_template.csv
+- 메타 수집 템플릿: code/data/manifests/templates/metadata_collection_template.csv
